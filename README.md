@@ -4,25 +4,22 @@
 
 ## 🔎 About me
 
-- 🎓 Currently in my **2nd semester** of Computer Engineering;
-- 🐍 Building projects with **Python** to solve logic and automation problems;
-- 💻 Looking for deepning my knowledge in **Front-end and Back-end** development;
-- 📚 Currently learning **React.js**.
+- 🎓 Currently in my **3nd semester** of Computer Engineering;
+- 🍵 Working in new projects with **Java**;
+- 💻 Looking for deepening my knowledge in **Front-end and Back-end** development;
+- 🔧 Working in a undergraduate research about automation and control with MATLAB.
 
 ## 🎯 Future Goals & Interests
 
-  I am constantly seeking to expand my technical stack. My current learning roadmap includes:
-
-- **Web Technologies:** Mastering HTML5, CSS3, and JavaScript (ES6+).
-- **Databases:** Understanding relational data and SQL.
-- **System Architecture:** Bridging the gap between hardware efficiency and high-level programming.
-
-  Furthermore, I am committed to building a distinguished academic career at my university. I am currently exploring diverse branches of technological knowledge to better identify the paths that align with my professional interests and long-term goals.
+  I am committed to building a distinguished academic career at my university. I am currently exploring diverse branches of technological knowledge to better identify the paths that align with my professional interests and long-term goals.
 
 ---
 
 ### 🛠 Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-005596?style=for-the-badge&logo=microchip&logoColor=white)
 
 ### 📫 How to reach me:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emerson.araujo1115@gmail.com)
